@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Cliente Front",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
